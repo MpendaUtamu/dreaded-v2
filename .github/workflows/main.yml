@@ -19,4 +19,4 @@ jobs:
       uses: actions/setup-node@v3
     - run: npm i
     - run: npm run build --if-present
-    - run: npm start￼Enter
+    - run: npm start
